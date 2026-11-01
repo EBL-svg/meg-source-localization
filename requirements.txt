@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+mne
+pyvistaqt
+jupyterlab
+scikit-learn
